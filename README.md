@@ -25,11 +25,11 @@ Now you are ready to ask questions. Type your question in Question box and hit E
 
 ### Sample Questions
 
-Do you guys provide internship and also do you offer EMI payments?
-Do you have javascript course?
-Should I learn power bi or tableau?
-I've a MAC computer. Can I use powerbi on it?
-I don't see power pivot. how can I enable it?
+1. Do you guys provide internship and also do you offer EMI payments?
+2. Do you have javascript course?
+3. Should I learn power bi or tableau?
+4. I've a MAC computer. Can I use powerbi on it?
+5. I don't see power pivot. how can I enable it?
 
 ### Project Structure
 
