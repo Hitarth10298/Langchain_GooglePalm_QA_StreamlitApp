@@ -33,7 +33,7 @@ Now you are ready to ask questions. Type your question in Question box and hit E
 
 ### Project Structure
 
-main.py: The main Streamlit application script.
-langchain_helper.py: This has all the langchain code
-requirements.txt: A list of required Python packages for the project.
-.env: Configuration file for storing your Google API key.
+1. main.py: The main Streamlit application script
+2. langchain_helper.py: This has all the langchain code
+3. requirements.txt: A list of required Python packages for the project
+4. .env: Configuration file for storing your Google API key
